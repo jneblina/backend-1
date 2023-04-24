@@ -80,6 +80,7 @@ A continuacion instalar los archivos en requirments.txt
 De preferencia esto debe estar en un VENV
 
 > python -m venv venv
+> venv\Scripts\activate
 
 El proyecto esta realizado en flask se debe ejecutar con el siguiente comando:
 
